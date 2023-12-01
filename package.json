@@ -1,0 +1,34 @@
+{
+  "name": "chess-notation-parser",
+  "version": "1.0.2",
+  "description": "Convert chess algebraic notation into a standard json output",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salman2301/chess-notation-parser.git"
+  },
+  "keywords": [
+    "chess",
+    "notation",
+    "parser",
+    "pgn",
+    "fen",
+    "engine"
+  ],
+  "author": "Salman2301",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salman2301/chess-notation-parser/issues"
+  },
+  "homepage": "https://github.com/salman2301/chess-notation-parser#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.10",
+    "zod": "^3.22.4"
+  }
+}
