@@ -24,11 +24,9 @@
     "url": "https://github.com/salman2301/chess-notation-parser/issues"
   },
   "homepage": "https://github.com/salman2301/chess-notation-parser#readme",
-  "dependencies": {
-    "jest": "^29.7.0"
-  },
   "devDependencies": {
     "@types/jest": "^29.5.10",
+    "jest": "^29.7.0",
     "zod": "^3.22.4"
   }
 }
